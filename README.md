@@ -1,4 +1,4 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+<img width="1037" height="558" alt="498897406-695d347a-ed3d-4752-885a-d0800c1361ee" src="https://github.com/user-attachments/assets/4d0dc057-3d9c-42d6-b0dc-57f7dcfe21be" /># SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
@@ -52,6 +52,7 @@ RegisterNumber:25015705
 <img width="1920" height="1080" alt="Screenshot 2025-10-08 150311" src="https://github.com/user-attachments/assets/043311b2-6b82-4381-9568-00763a78acd0" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1920" height="1080" alt="Screenshot 2025-10-08 150349" src="https://github.com/user-attachments/assets/4087e072-045e-43f9-9b81-f789b03a28e1" />
+<img width="1037" height="558" alt="498897406-695d347a-ed3d-4752-885a-d0800c1361ee" src="https://github.com/user-attachments/assets/a45a9e67-87ca-4da5-a27a-3f1616361deb" />
 
 **RESULTS**
+Thus the Serial-In Serial-Out shift register is implemented and verified.
